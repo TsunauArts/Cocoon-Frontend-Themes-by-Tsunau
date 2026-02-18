@@ -2,6 +2,7 @@
 I will be crediting assets used in each theme. Please do not sell these or redistribute. This is to be accessible for everyone to use.
 
 These themes are meant for use on Cocoon Frontend: https://github.com/inssekt/CocoonFE
+For more information on Themes for Cocoon: https://cocoon-shell.com/wiki/themes/
 
 ### How to Navigate
 - Click on the title of theme to view the readme for credits, sources, more details
