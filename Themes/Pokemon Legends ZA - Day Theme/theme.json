@@ -1,0 +1,51 @@
+{
+  "name": "Pokemon Legends ZA - Day Theme",
+  "author": "Tsunau",
+  "version": "1.0.0",
+  "description": "Pokemon Legends ZA - Day Theme for Cocoon. Art belongs to The Pokemon Company.",
+  "credits": "Tsunau",
+
+  "theme_mode": "system",
+  "music_mode": "PLAYLIST",
+  "music_playback_mode": "SHUFFLE",
+  "music_time_schedule": "0:0|default_sleepy||4:0|default_cozy||8:0|default_space||12:0|default_eternal||16:0|default_fluffy||20:0|default_bubbly",
+  "music_playlist": "music/Lumiose City (Magenta District).mp3",
+  "sfx_volume": 1.0,
+  "music_volume": 0.075,
+
+  "wallpaper_main": "main.png",
+  "wallpaper_external": "external.png",
+
+  "color_scheme": {
+    "background_gradient_start": "#6bcfff",
+    "background_gradient_end": "#aee8fe",
+
+    "card_gradient_start": "#76cbfd",
+    "card_gradient_end": "#8dbdff",
+
+    "text_primary": "#F8FCFB",
+    "text_secondary": "#d4ea37",
+
+    "icon_tint": "#d4ea37",
+
+    "tile_background": "#F8FCFB",
+    "tile_border": "#8fd1eb",
+    
+    "toggle_off_gradient_start": "#162a1f",
+    "toggle_off_gradient_end": "#021019",
+    "toggle_thumb_gradient_start": "#F8FCFB",
+    "toggle_thumb_gradient_end": "#F8FCFB",
+
+    "drop_shadow": "#99000000",
+    "inner_shadow_light": "#33FFFFFF",
+    "inner_shadow_dark": "#AA000000",
+
+    "success": "#090909",
+    "warning": "#090909",
+    "divider": "#c5e9fe",
+
+    "accent_gradient_start": "#d4ea37",
+    "accent_gradient_end": "#adc122",
+    "accent_glow": "#d4ea37"
+  }
+}

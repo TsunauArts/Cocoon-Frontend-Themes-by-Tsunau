@@ -1,0 +1,51 @@
+{
+  "name": "Pokemon Legends ZA - Night Theme",
+  "author": "Tsunau",
+  "version": "1.0.0",
+  "description": "Pokemon Legends ZA - Night Theme for Cocoon. Art belongs to The Pokemon Company.",
+  "credits": "Tsunau",
+
+  "theme_mode": "system",
+  "music_mode": "PLAYLIST",
+  "music_playback_mode": "SHUFFLE",
+  "music_time_schedule": "0:0|default_sleepy||4:0|default_cozy||8:0|default_space||12:0|default_eternal||16:0|default_fluffy||20:0|default_bubbly",
+  "music_playlist": "music/Lumiose City (Night).mp3",
+  "sfx_volume": 1.0,
+  "music_volume": 0.075,
+
+  "wallpaper_main": "main.png",
+  "wallpaper_external": "external.png",
+
+  "color_scheme": {
+    "background_gradient_start": "#133b81",
+    "background_gradient_end": "#0c293b",
+
+    "card_gradient_start": "#15355b",
+    "card_gradient_end": "#0a2d33",
+
+    "text_primary": "#F8FCFB",
+    "text_secondary": "#8fd1eb",
+
+    "icon_tint": "#8fd1eb",
+
+    "tile_background": "#092f3a",
+    "tile_border": "#8fd1eb",
+    
+    "toggle_off_gradient_start": "#162a1f",
+    "toggle_off_gradient_end": "#021019",
+    "toggle_thumb_gradient_start": "#F8FCFB",
+    "toggle_thumb_gradient_end": "#F8FCFB",
+
+    "drop_shadow": "#99000000",
+    "inner_shadow_light": "#33FFFFFF",
+    "inner_shadow_dark": "#AA000000",
+
+    "success": "#090909",
+    "warning": "#090909",
+    "divider": "#090909",
+
+    "accent_gradient_start": "#1b7168",
+    "accent_gradient_end": "#092f3a",
+    "accent_glow": "#8fd1eb"
+  }
+}
