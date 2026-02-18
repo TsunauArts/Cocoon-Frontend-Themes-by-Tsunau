@@ -1,5 +1,5 @@
 ## Disclosure
-I will be crediting assets used in each theme. Please do not sell these or redistribute. This is to be accessible for everyone to use.
+I will be crediting assets used in each theme. Please do not sell these or redistribute. This is to be accessible for everyone to use for free.
 
 These themes are meant for use on Cocoon Frontend: https://github.com/inssekt/CocoonFE
 
