@@ -1,0 +1,51 @@
+{
+  "name": "Zenless Zone Zero - Angels of Delusion",
+  "author": "Tsunau",
+  "version": "1.0.1",
+  "description": "Zenless Zone Zero - Angels of Delusion for Cocoon. Art belongs to Hoyoverse. Graphic by Reddit User: isredditok. iiSU Overlay Assets made by UsagiShade. Source: https://redd.it/1qpt5a7",
+  "credits": "Tsunau",
+
+  "theme_mode": "system",
+  "music_mode": "PLAYLIST",
+  "music_playback_mode": "SHUFFLE",
+  "music_time_schedule": "0:0|default_sleepy||4:0|default_cozy||8:0|default_space||12:0|default_eternal||16:0|default_fluffy||20:0|default_bubbly",
+  "music_playlist": "music/ReDreaming Angel (Instrumental).mp3||music/Training in Progress (Menu).mp3||music/Training in Progress (Test).mp3",
+  "sfx_volume": 1.0,
+  "music_volume": 0.075,
+
+  "wallpaper_main": "main.png",
+  "wallpaper_external": "external.png",
+
+  "color_scheme": {
+    "background_gradient_start": "#A8E2E6",
+    "background_gradient_end": "#99CAD8",
+
+    "card_gradient_start": "#FF9FCF",
+    "card_gradient_end": "#FF91EF",
+
+    "text_primary": "#F8FCFB",
+    "text_secondary": "#F5E42A",
+
+    "icon_tint": "#FDE988",
+
+    "tile_background": "#A8E2E6",
+    "tile_border": "#A1EAF0",
+    
+    "toggle_off_gradient_start": "#65C3E7",
+    "toggle_off_gradient_end": "#2E6AA8",
+    "toggle_thumb_gradient_start": "#F8FCFB",
+    "toggle_thumb_gradient_end": "#F8FCFB",
+
+    "drop_shadow": "#99000000",
+    "inner_shadow_light": "#33FFFFFF",
+    "inner_shadow_dark": "#AA000000",
+
+    "success": "#DF519D",
+    "warning": "#DF519D",
+    "divider": "#DF519D",
+
+    "accent_gradient_start": "#D1E9EB",
+    "accent_gradient_end": "#A1EAF0",
+    "accent_glow": "#FAED87"
+  }
+}
