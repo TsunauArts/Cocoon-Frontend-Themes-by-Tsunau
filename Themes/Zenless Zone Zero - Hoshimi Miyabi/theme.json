@@ -1,0 +1,51 @@
+{
+  "name": "Zenless Zone Zero - Miyabi",
+  "author": "Tsunau",
+  "version": "1.0.1",
+  "description": "Zenless Zone Zero - Miyabi Theme for Cocoon. Art belongs to Hoyoverse. iiSU Icon Overlay Dark Mode Assets by GiuPhoenix on Cocoon Discord.",
+  "credits": "Tsunau",
+
+  "theme_mode": "system",
+  "music_mode": "PLAYLIST",
+  "music_playback_mode": "SHUFFLE",
+  "music_time_schedule": "0:0|default_sleepy||4:0|default_cozy||8:0|default_space||12:0|default_eternal||16:0|default_fluffy||20:0|default_bubbly",
+  "music_playlist": "music/serenity.mp3||music/freedom.mp3||music/passion.mp3||music/fantasy.mp3||music/daily.mp3",
+  "sfx_volume": 1.0,
+  "music_volume": 0.075,
+
+  "wallpaper_main": "main.jpg",
+  "wallpaper_external": "external.jpg",
+
+  "color_scheme": {
+    "background_gradient_start": "#242424",
+    "background_gradient_end": "#181818",
+
+    "card_gradient_start": "#242424",
+    "card_gradient_end": "#181818",
+
+    "text_primary": "#F8FCFB",
+    "text_secondary": "#128F92",
+
+    "icon_tint": "#128F92",
+
+    "tile_background": "#242424",
+    "tile_border": "#AFC300",
+    
+    "toggle_off_gradient_start": "#242424",
+    "toggle_off_gradient_end": "#181818",
+    "toggle_thumb_gradient_start": "#F8FCFB",
+    "toggle_thumb_gradient_end": "#F8FCFB",
+
+    "drop_shadow": "#99000000",
+    "inner_shadow_light": "#33FFFFFF",
+    "inner_shadow_dark": "#AA000000",
+
+    "success": "#090909",
+    "warning": "#090909",
+    "divider": "#090909",
+
+    "accent_gradient_start": "#128F92",
+    "accent_gradient_end": "#128F92",
+    "accent_glow": "#128F92"
+  }
+}
