@@ -1,0 +1,45 @@
+{
+  "name": "Cinnamoroll - Akakura x Sanrio",
+  "author": "Tsunau",
+  "version": "1.0.0",
+  "description": "Cinnamoroll - Akakura x Sanrio Theme for Cocoon. Art belongs to 赤倉＠画集発売中. Part of the Akakura x Sanrio Collaboration.",
+  "credits": "Tsunau",
+
+  "theme_mode": "system",
+
+  "wallpaper_main": "main.png",
+  "wallpaper_external": "external.png",
+
+  "color_scheme": {
+    "background_gradient_start": "#4c6782",
+    "background_gradient_end": "#a3878c",
+
+    "card_gradient_start": "#5c87ae",
+    "card_gradient_end": "#4c6782",
+
+    "text_primary": "#F8FCFB",
+    "text_secondary": "#f0d994",
+
+    "icon_tint": "#f0d994",
+
+    "tile_background": "#F8FCFB",
+    "tile_border": "#b19e8e",
+    
+    "toggle_off_gradient_start": "#857b7b",
+    "toggle_off_gradient_end": "#756e72",
+    "toggle_thumb_gradient_start": "#F8FCFB",
+    "toggle_thumb_gradient_end": "#F8FCFB",
+
+    "drop_shadow": "#99000000",
+    "inner_shadow_light": "#33FFFFFF",
+    "inner_shadow_dark": "#AA000000",
+
+    "success": "#090909",
+    "warning": "#090909",
+    "divider": "#c5e9fe",
+
+    "accent_gradient_start": "#a9c2cd",
+    "accent_gradient_end": "#b19e8e",
+    "accent_glow": "#b19e8e"
+  }
+}
