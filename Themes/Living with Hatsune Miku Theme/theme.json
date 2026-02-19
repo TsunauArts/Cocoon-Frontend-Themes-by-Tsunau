@@ -1,0 +1,45 @@
+{
+  "name": "Living with Hatsune Miku",
+  "author": "Tsunau",
+  "version": "1.0.0",
+  "description": "Living with Hatsune Miku Theme for Cocoon. Art belongs to YOSHIMON on Pixiv. iiSU Icons made by UsagiShade",
+  "credits": "Tsunau",
+
+  "theme_mode": "system",
+
+  "wallpaper_main": "main.png",
+  "wallpaper_external": "external.png",
+
+  "color_scheme": {
+    "background_gradient_start": "#f7cbe4",
+    "background_gradient_end": "#ffdfee",
+
+    "card_gradient_start": "#48ced9",
+    "card_gradient_end": "#48ced9",
+
+    "text_primary": "#e8fbff",
+    "text_secondary": "#e8fbff",
+
+    "icon_tint": "#F8FCFB",
+
+    "tile_background": "#f08ab1",
+    "tile_border": "#48ced9",
+    
+    "toggle_off_gradient_start": "#857b7b",
+    "toggle_off_gradient_end": "#756e72",
+    "toggle_thumb_gradient_start": "#F8FCFB",
+    "toggle_thumb_gradient_end": "#F8FCFB",
+
+    "drop_shadow": "#99000000",
+    "inner_shadow_light": "#33FFFFFF",
+    "inner_shadow_dark": "#AA000000",
+
+    "success": "#090909",
+    "warning": "#090909",
+    "divider": "#c5e9fe",
+
+    "accent_gradient_start": "#e6e3f6",
+    "accent_gradient_end": "#e6e3f6",
+    "accent_glow": "#f08ab1"
+  }
+}
